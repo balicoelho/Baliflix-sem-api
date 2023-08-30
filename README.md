@@ -22,7 +22,7 @@ https://github.com/balicoelho/Baliflix-sem-api/assets/120601038/fa743934-859b-42
 
 É possível acessar o [código fonte do projeto em andamento](https://github.com/balicoelho/Baliflix-sem-api)
 
-Ou visualizar o [site](https://github.com/balicoelho/Baliflix-sem-api)
+Ou visualizar o [site](https://baliflix-sem-api.vercel.app/)
 
 # Tecnologias utilizadas
 
