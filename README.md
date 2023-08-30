@@ -6,7 +6,7 @@ Projeto resultado do challenge da Alura do curso de React, utilizando como base 
 
 O Baliflix é uma plataforma onde é possível inserir qualquer video hospedado na web e assistí-los, classificados por categoria.
 
-# :hammer : Funcionalidades do projeto
+# 🔨 Funcionalidades do projeto
 
 - `Funcionalidade 1`: Inclusão de vídeos, classificado por categoria, cor, link da imagem e link do video
 - `Funcionalidade 2`: Criação de novas categorias
@@ -14,7 +14,9 @@ O Baliflix é uma plataforma onde é possível inserir qualquer video hospedado 
 - `Funcionalidade 4`: Exclusão de categorias
 - `Funcionalidade 5`: Clicar no video e ser direcionado para sua página de execução do youtube
 
-![funcionalidades do site](./src/assets/imagens/Baliflix.mp4)
+
+https://github.com/balicoelho/Baliflix-sem-api/assets/120601038/fa743934-859b-422d-a0e3-872b614b2ef5
+
 
 # 📁 Acesso ao projeto
 
